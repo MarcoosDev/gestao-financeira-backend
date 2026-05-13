@@ -5,5 +5,5 @@ API REST para organização financeira pessoal, desenvolvida como projeto de est
 > [!IMPORTANT]
 > **Status: Em Desenvolvimento** 🚀
 > 
-> Este projeto está sendo desenvolvido desde **18/04/2026** e está sujeito a alterações e melhorias.
+> Este projeto está sendo desenvolvido desde **04/05/2026** e está sujeito a alterações e melhorias.
 > Documentando minha jornada de aprendizado e desenvolvimento.
